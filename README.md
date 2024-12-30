@@ -1,0 +1,6 @@
+# 【多语言影视投资系统源码】影视投资理财+影视众筹+积分商城++视频安装教程
+
+【多语言影视投资系统源码】影视投资理财+影视众筹+积分商城++视频安装教程（中文+英文+繁体）<br>==购买说明==购买前请打开测试站测试好在购买,源码和演示站一致,以演示站为准。由于此软件源码具有可复制性，请亲们先看演示，符合自己要求再下单哈。。。新版影视/影视投资理财平台/理财系统/每日返利/影视众筹/语音播报/视频安装教程<br>全新laravel的框架的后台，功能比较强大有：客服聊天系统、消息声音提醒、转盘游戏、实时票房、签到、积分兑换、会员等级、、推广抽成等。<br>1：修复已知bug<br>2：完美无错可直接搭建<br>3：自带客服聊天即时通讯<br>特别说明：老会员成功邀请新好友注册的情况，新会员注册成功充值并投资的，老会员可得到相应的提成！<br>邀请佣金制度说明：<br>1、邀请新会员，注册成功并投资后，可得到系统分配的邀请佣金；<br>2、邀请新会员，最多可到F级，每成功邀请一位会员，都可以得到其投资的邀请佣金，并且可享受一次邀请，终生分配佣金；<br>3、新会员权利，被邀请加入的新会员，继续邀请新会员注册成功并投资后，仍然可以享受一次邀请，终生分配佣金；<br>4、邀请佣金，全程由系统自动结算，新会员投资后，即刻结算；<br>5、佣金金额，无封顶限制，即被邀请会员投资金额无论多少，邀请者均可得到相应比例的佣金。<br>购买前请看演示，源码和演示站一样！！！<br>演示地址：http://example.com/（账号密码：18888888888，123456）<br>演示后台：http://example.com/DYAdmin/Index; （账号密码：admin，admin123456）<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/AY5zv" style="color: red;">https://mega-file.org/AY5zv</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
